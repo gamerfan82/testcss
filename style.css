@@ -3584,7 +3584,7 @@ ripple video btn css
 .funfacts.type_two {
 	position: relative;
 	padding: 100px 0px 70px;
-	background-image: url(../image/resources/explore-bg.jpg);
+	background-image: url(http://naqweb.ir/cdn/skins/res5/skin8/image/resources/explore-bg.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -4178,7 +4178,7 @@ ripple video btn css
 .explore_more {
 	position: relative;
 	padding: 100px 0px;
-	background: url(../image/resources/explore-bg.jpg);
+	background: url(http://naqweb.ir/cdn/skins/res5/skin8/image/resources/explore-bg.jpg);
 	background-position: 0px, 0px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -4186,7 +4186,7 @@ ripple video btn css
 }
 
 .explore_more.two {
-	background: url(../image/resources/explore-bg-2.jpg);
+	background: url(http://naqweb.ir/cdn/skins/res5/skin8/image/resources/explore-bg.jpg);
 	background-position: 0px, 0px;
 	background-repeat: no-repeat;
 	background-size: cover;
