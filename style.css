@@ -1204,7 +1204,7 @@ header css
 
 .header_v1 .header_top {
 	position: relative;
-	background-image: url(../image/resources/header-top-bg.jpg);
+	background-image: url(http://naqweb.ir/cdn/skins/res5/skin8/image/resources/header-top-bg.jpg);
 	background-position: center;
 	background-size: cover;
 	padding: 14px 0px 0px;
@@ -2572,7 +2572,7 @@ ripple video btn css
 .banner.type_two {
 	position: relative;
 	height: 1000px;
-	background: url(../image/main-slider/banner-3-bg.jpg);
+	background: url(http://naqweb.ir/cdn/skins/res5/skin8/image/main-slider/banner-3-bg.jpg);
 	background-size: cover;
 }
 
@@ -5654,7 +5654,7 @@ symptoms
 
 .symptoms.type_one .image_box::before {
 	position: absolute;
-	content: url(../image/resources/Sym-border.png);
+	content: url(http://naqweb.ir/cdn/skins/res5/skin8/image/resources/Sym-border.png);
 	top: 3px;
 	left: 0px;
 	right: 0;
@@ -6003,7 +6003,7 @@ symptoms
 .symptoms.type_four {
 	position: relative;
 	margin-top: 110px;
-	background: url(../image/resources/home-4-symptoms-bg.jpg);
+	background: url(http://naqweb.ir/cdn/skins/res5/skin8/image/resources/home-4-symptoms-bg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -7281,7 +7281,7 @@ page_title
 	position: relative;
 	padding: 120px 0px;
 	min-height: 300px;
-	background: url(../image/resources/breadcrumb.jpg);
+	background: url(http://naqweb.ir/cdn/skins/res5/skin8/image/resources/breadcrumb.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
