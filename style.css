@@ -50,15 +50,15 @@
 
 /*--------------import----external-css-----------------*/
 
-@import url('rtl.css');
+@import url('http://naqweb.ir/cdn/skins/res5/skin8/css/rtl.css');
 @import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-@import url('animate.css');
-@import url('owl.css');
-@import url('jquery-ui.css');
-@import url('jquery.fancybox.min.css');
-@import url('bsnav.min.css');
-@import url('flexslider.css');
-@import url('swiper.min.css');
+@import url('http://naqweb.ir/cdn/skins/res5/skin8/css/animate.css');
+@import url('http://naqweb.ir/cdn/skins/res5/skin8/css/owl.css');
+@import url('http://naqweb.ir/cdn/skins/res5/skin8/css/jquery-ui.css');
+@import url('http://naqweb.ir/cdn/skins/res5/skin8/css/jquery.fancybox.min.css');
+@import url('http://naqweb.ir/cdn/skins/res5/skin8/css/bsnav.min.css');
+@import url('http://naqweb.ir/cdn/skins/res5/skin8/css/flexslider.css');
+@import url('http://naqweb.ir/cdn/skins/res5/skin8/css/swiper.min.css');
 
 
 @font-face {
