@@ -1,0 +1,240 @@
+@font-face {
+	font-family: 'yekan';
+	src: url('http://cdn.bayan.ir/blog/templates/shared/fonts/BYekan.woff?download') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {font:12px 'yekan','Tahoma', sans-serif;color:#efefef;  position:absolute; min-width:1020px; min-height:850px; width:100%; height:100%; overflow:hidden;
+ background: #C4CB82 url(https://wallpapercave.com/wp/wp6124307.png) top left no-repeat;
+       -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-attachment: fixed;
+
+}
+.glob {position:absolute; width:100%; height:100%; overflow:hidden;}
+.main {margin:0px auto; width:950px; height:100%;}
+.page_spinner {position:fixed; background:url(http://negash.ir/cdn/skins/mazhabi/skin21/images/loader2.gif) 50% 50% no-repeat #000; z-index:99; width:100%; height:100%; top:0; left:0}
+.gall_spinner {position:absolute; width:168px; height:31px; top:36px; right:0; background:url(http://negash.ir/cdn/skins/mazhabi/skin21/images/gall_spinner.gif) 0 0 no-repeat; z-index:90;}
+a {text-decoration:none; outline:none; color: #2f9907;}
+a:hover {text-decoration:none; outline:none; color: #FF0000;}
+p {  line-height: 1.8em; padding-bottom: 5px;}
+h1 {margin:80px 0 15px 0; font-size: 42px; font-weight: normal;}
+h1 a {color:#000;
+text-shadow: 0 1px 1px #fff, 0 -1px 1px #fff, 1px 0 1px #fff, -1px 0 1px #fff;
+
+text-shadow: 0 1px 1px #000, 0 -1px 1px #000, 1px 0 1px #000, -1px 0 1px #000;
+    color: #fff;
+
+}
+h1 a:hover {color:#2f9907;
+text-shadow: 0 1px 1px #000, 0 -1px 1px #000, 1px 0 1px #000, -1px 0 1px #000;
+    color: #fff;
+}
+h2 {font:24px 'yekan',tahoma, sans-serif; color:#fff;  padding-bottom:15px; line-height:26px; font-weight: normal;}
+h2.desc {font:14px 'yekan',tahoma, sans-serif; color:#fff;  padding-bottom:35px; line-height:26px; font-weight: normal; text-align: center;}
+h3 {font:12px 'yekan','Tahoma', sans-serif; color:#dadada; font-weight:bold; line-height:20px;}
+.container {position:relative; z-index:0; width:581px; height:391px; background:#121212; padding:42px 0px 52px 50px; overflow:hidden; border-left:3px solid #272727;}
+.fleft {float:left;}
+.fright {float:right;}
+.imgIndent {margin-right:19px;}
+
+img {
+
+}
+#bgStretch {overflow:hidden; z-index:-1;}
+#page_about .col1 {margin-top:4px; padding-bottom:32px;}
+#page_about .col1 div {overflow:hidden;}
+#page_about .col1 div h2 {margin-top:-4px;}
+#page_about .last {background:none;}
+#page_menu .col1, #page_news .col1 {background:none;}
+#page_drinks .bg-none {background:none;}
+#page_privacy .bg-none {background:none;}
+#page_more .bg-none {background:none;}
+#page_news .col1 h2 {padding-bottom:21px;}
+#page_contacts h2 {padding-bottom:21px;}
+/*-----header-----*/
+header {position:absolute; width:100%; height:62px; background:url(http://negash.ir/cdn/skins/mazhabi/skin21/images/top.jpg) repeat-x; z-index:2;}
+header div {margin:0 auto; width:950px; height:100%;}
+header a {width:220px; height:30px; background-color:#ff0007; float:right; margin:23px 10px 0 0; font:18px 'yekan', sans-serif; color:#fff;  padding-top:9px; text-align:center;
+    width: 160px;
+    height: 30px;
+    background-color: rgba(9, 151, 197, 0.63);
+    float: right;
+    margin: 13px 10px 0 0;
+    font: 18px 'yekan', sans-serif;
+    color: #fff;
+    padding-top: 9px;
+    text-align: center;
+    /* -webkit-box-shadow: 1px 2px 4px 0px #7b5e43; */
+    /* box-shadow: 1px 2px 3px 0px #847160; */
+}
+header a span img {margin: 0px 0 0 10px; vertical-align: middle;  }
+header a span {display:inline-block; margin-top: -10PX;}
+header a:hover span {color:#fff;}
+footer {position:absolute; background:url(http://negash.ir/cdn/skins/mazhabi/skin21/images/pattern.png) repeat; width:382px; height:27px; bottom:0; border-right:4px solid #464646; padding:15px 0 0 26px; z-index:2;}
+footer p {font:12px 'yekan',tahoma,'Arial', sans-serif; color:#e3e3e3;  float:left; margin-right:21px; margin-top: -5px;}
+footer a {font:12px 'yekan',tahoma,'Arial', sans-serif; color:#e3e3e3; }
+footer .tw_logo {display:inline-block; margin-top:-4px; float:left; margin-right:17px;}
+footer .fb_logo {position:relative; top:-1px;}
+#logo {background:url(http://negash.ir/cdn/skins/mazhabi/skin21/images/logo3.jpg) 0 0 no-repeat; display:inline-block; width:950px;   white-space:nowrap;  text-align: center;}
+#logo:hover {text-decoration:none;}
+#logo h2 {font-family: 'yekan',tahoma;font-size:38px; color:#000; line-height:1.2em; text-align: center;padding:30px 0 30px 0;text-shadow: 3px 3px 12px #FFFCFC;}
+#logo h2:hover {color:#2F9907;}
+#logo span {
+  font-family: 'yekan',tahoma;font-size:12px; color:#2F9907; text-align: center;
+}
+.bgMenu {width:308px; height:485px; background-color:#121212;}
+/*-----menu-----*/
+#splash_menu {height:485px; position:absolute; z-index:0;}
+#splash_menu ul {float:left;}
+#splash_menu .center-menu {margin-top:80px; position:relative;}
+#splash_menu .right-menu {margin-top:160px; position:relative;}
+#splash_menu .img_act {position:absolute;}
+.menu li {width:307px; height:80px; background:url(http://negash.ir/cdn/skins/mazhabi/skin21/images/pattern.png) repeat; margin-bottom:80px; opacity:1;}
+.menu a {display:inline-block;}
+.menu li a p {width:307px; height:55px; display:inline-block; font:24px 'yekan', sans-serif; color:#fff; }
+.menu li img {border-right:4px solid #292929;}
+.menu li a p {display:inline-block; width:193px; text-align:right; margin:12px 30px 0 0;}
+.submenu_1 {position:absolute; z-index:2; width:192px; background:url(http://negash.ir/cdn/skins/mazhabi/skin21/images/pattern.png) repeat; top:243px; left:84px; height:156px; text-align:left; padding-left:31px; padding-top:5px;}
+.submenu_1 li {position:relative; display:inline-block; width:220px; background:none; height:25px !important; margin-bottom:0 !important;}
+.submenu_1 a {font:18px/20px 'yekan', sans-serif; color:#fff;  display:inline-block;}
+.submenu_1 li:hover > a, .submenu_1 li.sfHover > a {text-decoration:none; color:#2f9907}
+/*-----bgStretch-----*/
+#bgStretch {overflow:hidden;}
+.bgNav {display:inline-block; margin:526px 21px 0 0; float:right;}
+.bgNav li {display:inline-block; height:17px;}
+.bgNav a {display:block; height:18px; width:18px; background: url(http://negash.ir/cdn/skins/mazhabi/skin21/images/pagination.png) no-repeat; text-decoration:none;}
+.bgNav a:hover, .bgNav .active a {background-position: left center; background: url(http://negash.ir/cdn/skins/mazhabi/skin21/images/pagination_act.png) no-repeat;}
+/*-----content-----*/
+#content{position:absolute;}
+#content > ul{width:100%; height:720px;}
+#content > ul > li{width:100%; display:block; position:absolute;}
+.cross {position:absolute; top:14px; left:613px; height:8px; overflow:hidden;}
+.cross .img_act {position:absolute;}
+.more {font:15px 'yekan', sans-serif; color:#fff;  float:right; margin-bottom:16px;}
+.more img {margin-top:5px; margin-right:6px; position:relative;}
+.list1 li {margin:0 8px 8px 0; float:left;}
+.list1 .details {position:absolute; background:url(http://negash.ir/cdn/skins/mazhabi/skin21/images/list1_hover_bg.png) repeat; width:148px; height:51px; font:18px 'yekan', sans-serif; color:#fff; text-shadow:1px 1px 3px #4b433a; padding-top:30px; text-align:center;}
+
+.list2 { width:245px; margin-top:2px; float: left;}
+.list2 li a:hover {  text-decoration:none; color:#ff0000;}
+.list2 li:hover img {  border:1px solid #fff;}
+.list2 li {padding:10px 0 10px 0px; background:url(http://negash.ir/cdn/skins/mazhabi/skin21/images/line_2.png) top right repeat-x;}
+.list2 li span {font-size:11px; color:#2F9907; font-family:'yekan',tahoma,Arial, Helvetica, sans-serif; line-height:23px; text-decoration:none; display:block;}
+.list2 li img { float:right; margin-top:-17px; border:1px solid transparent;}
+.list2 li:first-child {background:none;}
+.list2 li a { font-size:13px; color:#fff; font-family:'yekan',tahoma,Arial, Helvetica, sans-serif; line-height:18px; text-decoration:none;  }
+
+.listWithMarker3 li {
+	display:block;
+	padding-bottom:2px;
+    padding-top:2px;
+    border-bottom: #222 1px solid;
+    border-top: #222 1px solid;
+}
+.listWithMarker3 li a {
+	display:inline-block;
+	padding:6px 5px 5px 0px;
+	border-radius: 0px;
+	/*background:#fff url(http://negash.ir/cdn/skins/mazhabi/skin21/images/img_section_bg.png);/*/
+	width: 100%;
+	color:#fff;
+	text-align: right;
+	text-decoration:none;
+	font:21px 'yekan','Tahoma', sans-serif;
+    border-bottom: #00deff 0px solid;
+    border-top: #00deff 0px solid;
+}
+.listWithMarker3 li a:hover {
+	color:#fff;
+	background:#ff0000;
+}
+
+
+
+.list3 li {margin-bottom:10px; cursor:pointer;}
+.list3 .box1 {background:url(http://negash.ir/cdn/skins/mazhabi/skin21/images/page3_pic1.jpg) no-repeat; width:520px; height:68px; padding:17px 0 0 25px;}
+.list3 .box2 {background:url(http://negash.ir/cdn/skins/mazhabi/skin21/images/page3_pic2.jpg) no-repeat; width:520px; height:68px; padding:17px 0 0 25px;}
+.list3 .box3 {background:url(http://negash.ir/cdn/skins/mazhabi/skin21/images/page3_pic3.jpg) no-repeat; width:520px; height:68px; padding:17px 0 0 25px;}
+.list3 h2 {color:#3f3e3e; padding-bottom:0;}
+.list3 div {height:46px; border-left:3px solid #23201f; padding:5px 0 0 10px;}
+.list3 div p {font-size:13px; color:#6b6b6b; margin-top:-3px;}
+.list4 li {margin-bottom:25px;}
+.list4 div {overflow:hidden; position:relative; top:-6px;}
+.list4 img {margin-right:20px;}
+.list4 li a {color:#fff;}
+.list5 {margin-bottom:25px;}
+.list5 li {float:left; margin-right:20px;}
+.list5 .last {margin-right:0;}
+.box_1{width:219px; float:left;}
+.box_1>table tr>td{white-space: nowrap;height:22px; color:#9c9c9c; font-size:12px;}
+.box_1>table a{color:#9c9c9c; text-decoration:none; font:12px 'yekan','Arial', sans-serif; }
+.dots{background: url(http://negash.ir/cdn/skins/mazhabi/skin21/images/background-point.png) 30% 11px repeat-x;width: 100%;}
+.box_1 img {margin-top:4px; margin-right:10px;}
+.follow_icon li {float:left; margin-right:6px;}
+/*-----Map-----*/
+#map {float:left; margin-right:20px;}
+.google_map{width:340px; height:352px; background-color:#fff;}
+.contacts {position:relative; margin-bottom:26px; display:inline-block; margin-top:-3px;}
+.contactText_1 {font:12px 'yekan','Tahoma', sans-serif; color:#dadada; text-decoration:none; line-height:14px; margin-bottom:2px; font-weight:bold; margin-bottom:23px;}
+.contactText_3 {font:12px 'yekan','Tahoma', sans-serif; color:#fff; text-decoration:underline; line-height:20px;}
+.phone {display:inline-block; width:60px;}
+
+/* ============================= my ============================= */
+a.button-1 {font-family: 'yekan',tahoma, sans-serif; font-size:13px; line-height:20px; color:#000; text-decoration:none; background:#fff; padding:7px 15px 6px 15px;  display:inline-block;}
+a.button-1:hover { background:#FF0000; color:#fff; }
+
+a.button-2 {font-family: 'yekan',tahoma, sans-serif; font-size:16px; line-height:20px; width: 200px; color:#fff; text-decoration:none; background:#211e1e; padding:10px 15px 8px 15px;  display:inline-block;}
+a.button-2:hover,a.active-2 { background:#333333; color:#fff; }
+
+.button2{ display:inline-block; position:relative; font-size:12px; font-family: 'yekan', tahoma;     color: #949494;
+    border: 1px dotted #696969;  line-height:15px; padding: 6px 6px 5px 6px; margin-bottom: 6px; margin-left: 2px;}
+.button2:hover {color: #ff0000; border: 1px dotted #ff0000;}
+.button3{ display:inline-block; position:relative; width: 60px; text-align: center; font-size:12px; font-family: 'yekan', tahoma;     color: #8C8C8C;
+    border: 1px dotted #504E4E;  line-height:15px; padding: 6px 10px 5px 10px;}
+.button3:hover {color: #8C8C8C;}
+
+#myCodeBox {
+  position: fixed; width: 220px; height: 100%; right: -220px; background-color: #ccc; z-index: 6;
+}
+#openCodeBox {
+  position: absolute; bottom: 0px; left: -120px; width: 120px; height: 32px; background: #54883e url(http://takabnak.ir/skins/pro3/skin6/images/opencodebox.png) center center; z-index: 2;
+  cursor: pointer;
+}
+#closeCodeBox {
+  position: absolute; bottom: 0px; left: -120px; width: 120px; height: 0px; background: #54883e url(http://takabnak.ir/skins/pro3/skin6/images/closecodebox.png) center center; z-index: 2;
+  cursor: pointer;
+}
+#mask22 {
+  position: absolute; bottom: 0px; left: -120px; width: 120px; height: 32px; background: #54883e ; z-index: 1;
+}
+
+
+
+/* ============================= scroll ============================= */
+
+.scroll{height:410px; width:506px; overflow:hidden;}
+.track{ width:1px; height:415px; padding:30px 0; top:100px !important; left:580px !important; background-color: rgb(51, 51, 51);}
+.shuttle{ width:5px; height:55px; background:#696969; margin-left:-2px;}
+._up-butt, ._down-butt{ height:0px !important;}
+
+
+.scroll2{height:370px; width:290px; overflow:hidden; padding-left: 0px; text-align: right;}
+.track2{ width:1px; height:370px; padding:30px 0; top:142px !important; left:320px !important; background-color: rgb(51, 51, 51);}
+.shuttle2{ width:5px; height:55px; background:#696969; margin-left:-2px;}
+._up-butt2, ._down-butt2{ height:0px !important;}
+
+.scroll3{height:100%; width:200px; overflow:hidden; padding-right: 30px; margin-top: 0px; text-align: right; direction: rtl;}
+.track3{ width:1px; height:100%; padding:0px 0; top:42px !important; left:200px !important; background-color: rgb(51, 51, 51);}
+.shuttle3{ width:5px; height:55px; background:#696969; margin-left:-2px;}
+._up-butt3, ._down-butt3{ height:0px !important;}
+
+
+/* ============================= end scroll ============================= */
+
+a,a:hover {
+  text-decoration: none !important;
+}
