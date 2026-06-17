@@ -119,7 +119,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 1 - VLESS - Domain : 80",
+  "remarks": "Nice👌 1",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -301,7 +301,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 5 - VLESS - Domain : 2086",
+  "remarks": "Nice👌 2",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -483,7 +483,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 9 - VLESS - Domain : 2095",
+  "remarks": "Nice👌 3",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -660,7 +660,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 5 - Trojan - Domain : 2086",
+  "remarks": "Nice👌 4",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -837,7 +837,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 1 - Trojan - Domain : 80",
+  "remarks": "Nice👌 5",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -2628,7 +2628,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 Best Ping 🚀",
+  "remarks": "Nice👌 Best Ping 🚀",
   "routing": {
     "balancers": [
       {
@@ -2819,7 +2819,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 9 - Trojan - Domain : 2095",
+  "remarks": "Nice👌 6",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -3005,7 +3005,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 22 - Trojan - Domain : 2096",
+  "remarks": "Nice👌 7",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -3194,7 +3194,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 2 - Workerless ⭐",
+  "remarks": "Nice👌 Workerless ⭐",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -3414,7 +3414,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 1 - Workerless ⭐",
+  "remarks": "Nice👌 1 Workerless ⭐",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -3641,7 +3641,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 12 - VLESS F - IPv4 : 2096",
+  "remarks": "Nice👌 8",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -4980,7 +4980,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 Best Fragment 😎",
+  "remarks": "Nice👌 Best Fragment 😎",
   "routing": {
     "balancers": [
       {
@@ -6140,7 +6140,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 Best Ping F 🚀",
+  "remarks": "Nice👌 Best Ping F 🚀",
   "routing": {
     "balancers": [
       {
@@ -6306,7 +6306,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "V-Core-80",
+  "remarks": "Nice👌 9",
   "routing": {
     "domainStrategy": "AsIs",
     "rules": [
@@ -6445,7 +6445,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "V-Core-80",
+  "remarks": "Nice👌 10",
   "routing": {
     "domainStrategy": "AsIs",
     "rules": [
@@ -6584,7 +6584,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "V-Core-2086",
+  "remarks": "Nice👌 11",
   "routing": {
     "domainStrategy": "AsIs",
     "rules": [
@@ -6748,7 +6748,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 9 - Trojan - Domain : 2095",
+  "remarks": "Nice👌 12",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -8539,7 +8539,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 Best Ping 🚀",
+  "remarks": "Nice👌 Best Ping G 🚀",
   "routing": {
     "balancers": [
       {
@@ -8735,7 +8735,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 9 - VLESS - Domain : 2095",
+  "remarks": "Nice👌 13",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -8917,7 +8917,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 1 - VLESS - Domain : 80",
+  "remarks": "Nice👌 14",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -9099,7 +9099,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 5 - VLESS - Domain : 2086",
+  "remarks": "Nice👌 15",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -9276,7 +9276,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 5 - Trojan - Domain : 2086",
+  "remarks": "Nice👌 16",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
