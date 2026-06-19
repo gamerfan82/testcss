@@ -88,5 +88,3 @@ vless://4cddc868-e8a3-2255-46e8-6ff6343de08a@185.166.104.6:2086?encryption=none&
 vless://4cddc868-e8a3-2255-46e8-6ff6343de08a@185.166.104.7:2086?encryption=none&security=none&sni=flat-glade-c6a6.mamadir69.workers.dev&fp=chrome&type=ws&host=flat-glade-c6a6.mamadir69.workers.dev&path=/sync&allowInsecure=0#ð Mohammad69 185.166.104.7
 vless://4cddc868-e8a3-2255-46e8-6ff6343de08a@79.127.127.35:2086?encryption=none&security=none&sni=flat-glade-c6a6.mamadir69.workers.dev&fp=chrome&type=ws&host=flat-glade-c6a6.mamadir69.workers.dev&path=/sync&allowInsecure=0#ð®ð· Mohammad69 79.127.127.35
 vless://4cddc868-e8a3-2255-46e8-6ff6343de08a@185.147.179.11:2086?encryption=none&security=none&sni=flat-glade-c6a6.mamadir69.workers.dev&fp=chrome&type=ws&host=flat-glade-c6a6.mamadir69.workers.dev&path=/sync&allowInsecure=0#ðºð¸ Mohammad69 185.147.179.11
-trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?encryption=none&security=none#%F0%9F%93%8A%20Used%3A%200.00%20GB%20%2F%206.00%20GB
-trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?encryption=none&security=none#%F0%9F%93%85%20Expiry%3A%202026-07-19%20(30%20Days%20Left)
