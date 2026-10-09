@@ -133,7 +133,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 2. VLESS F - IPv4 : 443",
+  "remarks": "@gamerfan82 2. VLESS F - IPv4 : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -324,7 +324,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 2. Trojan F - IPv4 : 443",
+  "remarks": "@gamerfan82 2. Trojan F - IPv4 : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -515,7 +515,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 3. Trojan F - IPv4 : 443",
+  "remarks": "@gamerfan82 3. Trojan F - IPv4 : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -718,7 +718,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 4. VLESS F - Clean IP : 443",
+  "remarks": "@gamerfan82 4. VLESS F - Clean IP : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -921,7 +921,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 1. VLESS F - Domain : 443",
+  "remarks": "@gamerfan82 1. VLESS F - Domain : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -1119,7 +1119,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 1. Trojan F - Domain : 443",
+  "remarks": "@gamerfan82 1. Trojan F - Domain : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -1315,7 +1315,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 3. VLESS F - IPv4 : 443",
+  "remarks": "@gamerfan82 3. VLESS F - IPv4 : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -1513,7 +1513,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 4. Trojan F - Clean IP : 443",
+  "remarks": "@gamerfan82 4. Trojan F - Clean IP : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -2076,7 +2076,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 Best Ping F 🚀",
+  "remarks": "@gamerfan82 Best Ping F 🚀",
   "routing": {
     "balancers": [
       {
@@ -3309,7 +3309,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 Smart Fragment 🧠",
+  "remarks": "@gamerfan82 Smart Fragment 🧠",
   "routing": {
     "balancers": [
       {
@@ -3501,7 +3501,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 11. Trojan - IPv4 : 443",
+  "remarks": "@gamerfan82 11. Trojan - IPv4 : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -3687,7 +3687,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 9. Trojan - Domain : 443",
+  "remarks": "@gamerfan82 9. Trojan - Domain : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -3873,7 +3873,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 9. Trojan - Domain : 443",
+  "remarks": "@gamerfan82 9. Trojan - Domain : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -4064,7 +4064,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 9. VLESS - Domain : 443",
+  "remarks": "@gamerfan82 9. VLESS - Domain : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -5003,7 +5003,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 Best Ping 🚀",
+  "remarks": "@gamerfan82 Best Ping 🚀",
   "routing": {
     "balancers": [
       {
@@ -5194,7 +5194,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 1. Trojan - Domain : 80",
+  "remarks": "@gamerfan82 1. Trojan - Domain : 80",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -5371,7 +5371,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 5. Trojan - Domain : 8080",
+  "remarks": "@gamerfan82 5. Trojan - Domain : 8080",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -5553,7 +5553,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 5. VLESS - Domain : 8080",
+  "remarks": "@gamerfan82 5. VLESS - Domain : 8080",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -5735,7 +5735,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 1. VLESS - Domain : 80",
+  "remarks": "@gamerfan82 1. VLESS - Domain : 80",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -5919,7 +5919,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 10. VLESS - IPv4 : 443",
+  "remarks": "@gamerfan82 10. VLESS - IPv4 : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -6098,7 +6098,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 10. Trojan - IPv4 : 443",
+  "remarks": "@gamerfan82 10. Trojan - IPv4 : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -6284,7 +6284,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 12. Trojan - Clean IP : 443",
+  "remarks": "@gamerfan82 12. Trojan - Clean IP : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -6475,7 +6475,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 12. VLESS - Clean IP : 443",
+  "remarks": "@gamerfan82 12. VLESS - Clean IP : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -6659,7 +6659,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "💦 11. VLESS - IPv4 : 443",
+  "remarks": "@gamerfan82 11. VLESS - IPv4 : 443",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
