@@ -193,7 +193,8 @@
     ]
   },
   "stats": {}
-},
+}
+,
 {
   "dns": {
     "queryStrategy": "UseIP",
@@ -6719,5 +6720,4 @@
   },
   "stats": {}
 }
-,
 ]
